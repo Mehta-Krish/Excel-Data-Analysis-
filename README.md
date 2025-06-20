@@ -8,6 +8,7 @@ Key Analysis:
 2. Patient Price Optimization Analysis
 3. Hospital Resource Management & Utilization
 
+
 B. India CPI Inflation (CPI V4.1 KM)
 It’s an Analysis on India’s Consumer Price Index (CPD inflation trends from 2013 to 2023, with a focus on identifying key contributors to inflation, 
 understanding category-level impacts, and deriving insights from macroeconomic and global events. The project is based on eclectic dataset. 
